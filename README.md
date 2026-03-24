@@ -1,5 +1,5 @@
 # FIR-FILTER-DESIGN
-# EXP 4 c:
+# EXP 4 b:
 
 Design-of-FIR-Digital-Filter-using-Hamming-Window
 
